@@ -1,0 +1,11 @@
+body {
+  background-color: #12cad6;
+}
+
+img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border-color: black;
+  border-style: solid;
+}
