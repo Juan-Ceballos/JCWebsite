@@ -2,10 +2,24 @@ body {
   background-color: #12cad6;
 }
 
-img {
+#profile {
   width: 150px;
   height: 150px;
   border-radius: 50%;
+  border-color: black;
+  border-style: solid;
+}
+
+#pftLogo {
+  width: 300px;
+  height: 300px;
+  border-color: black;
+  border-style: solid;
+}
+
+#sushareLogo {
+  width: 300px;
+  height: 300px;
   border-color: black;
   border-style: solid;
 }
